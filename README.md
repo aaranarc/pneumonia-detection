@@ -3,6 +3,7 @@
 Deep-learning classifier that flags likely pneumonia in chest X-ray images using a fine-tuned EfficientNetB0. Deployed as an interactive Streamlit app with a threshold slider that exposes the sensitivity vs specificity trade-off central to medical screening.
 
 **[➡  Live demo](https://pneumonia-detection-vjixsubtgwv4bjndk7wspa.streamlit.app/)**
+![PneumoScan Demo](assets/demo.png)
 
 ---
 
