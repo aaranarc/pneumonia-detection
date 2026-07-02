@@ -4,7 +4,7 @@ Deep-learning classifier that flags likely pneumonia in chest X-ray images using
 
 **[➡  Live demo](https://chest-xray-detector.streamlit.app/)**
 
-![PneumoScan Demo](assets/demo1.png)
+![PneumoScan Demo](assets/demo2.png)
 
 ---
 
