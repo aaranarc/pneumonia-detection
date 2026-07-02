@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data — do NOT commit training data to the repo
+data/
+chest_xray/
+chest_xray_data/
+*.zip
+
+# Streamlit local secrets (never commit)
+.streamlit/secrets.toml
+
+# The trained model IS committed (it's what the app loads).
+# Do not add models/ to ignore.
